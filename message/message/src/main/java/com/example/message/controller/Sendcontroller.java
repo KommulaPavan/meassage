@@ -1,4 +1,6 @@
 package com.example.message.controller;
 
-public class Sendcontroller {
+public class SendController {
+    private String add;
+    private String sub;
 }
